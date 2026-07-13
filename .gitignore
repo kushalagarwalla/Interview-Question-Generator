@@ -1,0 +1,26 @@
+# environment
+env/
+
+# Editor
+.vscode/
+
+# Secrets — API keys live here, never commit
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+logs/
