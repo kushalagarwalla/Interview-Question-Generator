@@ -1,0 +1,78 @@
+# Job Title: Web Developer
+
+## Job Summary
+
+We are seeking a motivated and skilled Web Developer to join our engineering team. The ideal candidate will be responsible for designing, developing, testing, and maintaining responsive, high-performance web applications. You will collaborate closely with designers, product managers, and other developers to build scalable, user-friendly solutions that deliver an exceptional user experience.
+
+## Key Responsibilities
+
+* Design, develop, and maintain responsive web applications using modern web technologies.
+* Collaborate with UI/UX designers to translate wireframes and mockups into functional web pages.
+* Develop clean, reusable, and maintainable code following industry best practices.
+* Optimize applications for speed, scalability, accessibility, and cross-browser compatibility.
+* Integrate front-end applications with RESTful APIs and backend services.
+* Debug, troubleshoot, and resolve application issues in development and production environments.
+* Participate in code reviews and contribute to improving development standards.
+* Write unit and integration tests to ensure software quality.
+* Collaborate with cross-functional teams in an Agile development environment.
+* Stay up to date with emerging web technologies and recommend improvements when appropriate.
+
+## Required Qualifications
+
+* Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field, or equivalent practical experience.
+* 3–5 years of professional experience in web development.
+* Strong proficiency in HTML5, CSS3, and JavaScript (ES6+).
+* Experience with React.js or a similar modern JavaScript framework.
+* Experience consuming RESTful APIs.
+* Familiarity with Git and version control workflows.
+* Knowledge of responsive web design principles and cross-browser compatibility.
+* Understanding of web performance optimization and accessibility standards.
+* Strong problem-solving and debugging skills.
+* Excellent communication and collaboration abilities.
+
+## Preferred Qualifications
+
+* Experience with TypeScript.
+* Familiarity with Node.js and Express.js.
+* Experience with relational databases such as PostgreSQL or MySQL.
+* Knowledge of cloud platforms such as AWS, Azure, or Google Cloud.
+* Experience with Docker and CI/CD pipelines.
+* Understanding of authentication and web security best practices.
+* Familiarity with Agile/Scrum methodologies.
+
+## Technical Skills
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* TypeScript (Preferred)
+* Node.js
+* Express.js
+* REST APIs
+* Git
+* SQL (PostgreSQL/MySQL)
+* Docker
+* AWS/Azure/GCP
+* Jest or similar testing frameworks
+
+## Soft Skills
+
+* Strong analytical and problem-solving abilities
+* Effective written and verbal communication
+* Team collaboration
+* Time management
+* Attention to detail
+* Adaptability and continuous learning mindset
+
+## Seniority Level
+
+Mid-Level
+
+## Employment Type
+
+Full-Time
+
+## Location
+
+Hybrid / Remote (depending on business requirements)
