@@ -1,7 +1,6 @@
 openai
 langchain
 langchain-openai
-pydantic
 pypdf
 streamlit
 pandas
