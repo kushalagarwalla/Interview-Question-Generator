@@ -11,6 +11,7 @@ setup(
         "langchain-openai",
         "pypdf",
         "streamlit",
+        "pandas",
         "python-dotenv",
     ],
     packages=find_packages()

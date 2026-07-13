@@ -1,0 +1,23 @@
+{
+    "1": {
+        "question":"Interview Question",
+        "answer":"Answer to the Question",
+        "difficulty":"difficulty level",
+        "category": "Technical",
+        "primary_skill": "skill name"
+    },
+    "2": {
+        "question":"Interview Question",
+        "answer":"Answer to the Question",
+        "difficulty":"difficulty level",
+        "category": "Technical",
+        "primary_skill": "skill name"
+    },
+    "3": {
+        "question":"Interview Question",
+        "answer":"Answer to the Question",
+        "difficulty":"difficulty level",
+        "category": "Technical",
+        "primary_skill": "skill name"
+    }
+}
