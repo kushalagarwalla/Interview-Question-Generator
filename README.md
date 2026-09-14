@@ -10,7 +10,7 @@ Built with LangChain, OpenAI, and Streamlit.
 
 ## Demo
 
-[Interview Question Generator demo](docs/demo.png)
+![Interview Question Generator demo](docs/demo.png)
 
 ---
 
