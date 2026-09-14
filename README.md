@@ -38,7 +38,7 @@ Built with LangChain, OpenAI, and Streamlit.
   get_table_data()  ──►  pandas DataFrame  ──►  st.table
 ```
 
-Two LLM calls, chained. The first **writes** the questions; the second **critiques and revises** them. Composed with LangChain's LCEL pipe syntax:
+Two LLM calls, chained. The first **writes** the questions; the second **critiques and revises** them. 
 
 ```python
 question_chain = RunnablePassthrough.assign(
